@@ -1,0 +1,6 @@
+<?php
+$data = file_get_contents('../file/report AM.csv');
+
+var_dump($data);
+
+?>
